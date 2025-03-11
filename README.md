@@ -1,2 +1,10 @@
-# Driver-Programming
-A repository for driver programming assignments and projects
+# Driver Programming Repository 🚗💻
+
+This repository contains assignments and projects related to driver programming.  
+Each homework is stored in its **own branch**.
+
+## 📂 Repository Structure
+- `main` → Only contains this README file.
+- `registry` → Contains the first project.
+
+🔥 _Happy coding!_
